@@ -16,3 +16,5 @@ DESCRIPTION: This C program for lexical analysis was written and tested in a mod
 
 OUTPUT:
 
+<img width="1381" alt="Image" src="https://github.com/user-attachments/assets/b33d5949-9b43-4459-90b9-8576c90c7050" />
+
